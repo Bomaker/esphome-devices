@@ -196,5 +196,5 @@ sensor:
     accuracy_decimals: 2
     filters:
       - multiply: 0.01
-  # see file:///E:/Users/archi/Downloads/OR-WE-514_MODBUS_Registers_List.pdf for more registers
+  
 ```
